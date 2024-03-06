@@ -4,6 +4,7 @@ arr2=[1,3,4]
 arr2_set = set(arr2)
 nums1 = []
 nums2 = [] # fema test git 3/6/2024
+# fema test 2 git 3/6/2024-2
 for i in arr1:
     if i in arr2_set: nums1.append(i)
     else: nums2.append(i)
