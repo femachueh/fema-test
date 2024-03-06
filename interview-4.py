@@ -7,6 +7,7 @@ nums2 = [] # fema test git 3/6/2024
 # fema test 2 git 3/6/2024-2
 # fema test 3 from VScode 3/6/2024
 #again 
+#ffgggg
 for i in arr1:
     if i in arr2_set: nums1.append(i)
     else: nums2.append(i)
