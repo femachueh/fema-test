@@ -1,7 +1,7 @@
 from fitparse import FitFile
 
 fit_file = FitFile('test.fit')
-
+#test 3-24-2024
 with open('power_timestamp.csv', 'w') as file:
     file.write('timestamp,power,altitude,speed\n')
     for record in fit_file.get_messages('record'):
